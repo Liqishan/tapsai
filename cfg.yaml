@@ -1,0 +1,11 @@
+wingo-detectcion:
+  ip: 0.0.0.0
+  port: 25540
+
+virture-fencing:
+  ip: 0.0.0.0
+  port: 25542
+
+ai-interface:
+  ip: 127.0.0.1
+  port: 13001
